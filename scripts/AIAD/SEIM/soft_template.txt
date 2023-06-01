@@ -1,0 +1,5 @@
+  {"placeholder": "text_a"} In summary , the impact of COVID to the company was {"mask"}
+ {"placeholder": "text_a"} All in all , COVID was {"mask"} to the company.
+ {"placeholder": "text_a"} In summary , the impact of COVID to the company was {"mask"} .
+ Covid impact was {"mask"} . {"placeholder": "text_a"}
+ Just {"mask"} ! {"placeholder": "text_a"}
